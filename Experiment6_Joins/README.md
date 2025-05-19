@@ -465,4 +465,4 @@ WHERE o.ord_date BETWEEN '2012-07-01' AND '2012-07-30';
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment6_Joins/README.md at main · Sree21112004/19CS404-DBMS-Lab-Manual
+
