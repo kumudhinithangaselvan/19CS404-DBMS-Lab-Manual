@@ -1,4 +1,3 @@
-
 # Experiment 2: DDL Commands
 
 ## NAME: KUMUDHINI T
@@ -337,4 +336,4 @@ VALUES('978-1122334455', 'Cybersecurity Essentials', 'Alice Smith', null, 2021);
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment2_DDL_Commands/README.md at main · Sree21112004/19CS404-DBMS-Lab-Manual 
+
