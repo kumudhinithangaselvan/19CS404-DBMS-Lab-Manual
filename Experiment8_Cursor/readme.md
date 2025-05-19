@@ -293,4 +293,4 @@ The program should update employee salaries and display a message, or it should 
 
 ## RESULT
 Thus, the program successfully executed and displayed employee details using a cursor. 
-19CS404-DBMS-Lab-Manual/Experiment8_Cursor/readme.md at main · Sree21112004/19CS404-DBMS-Lab-Manual 
+
