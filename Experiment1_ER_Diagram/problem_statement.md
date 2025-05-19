@@ -47,7 +47,7 @@ Design a database for patient management, appointments, medical records, and bil
    - How you modeled prerequisites or billing.
 
 
-# ER Diagram Submission - Charan PG (212223060033)
+# ER Diagram Submission - Kumudhini T (212222040084)
 
 ## Scenario Chosen:
 University / Hospital (choose one)
