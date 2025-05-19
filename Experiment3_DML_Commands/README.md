@@ -1,6 +1,6 @@
 
 # Experiment 3: DML Commands
-### Name: KUMUDHINI T  212222040084
+### Name: KUMUDHINI T  
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
