@@ -214,4 +214,4 @@ END;
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment7_plsql/readme.md at main · Sree21112004/19CS404-DBMS-Lab-Manual
+
