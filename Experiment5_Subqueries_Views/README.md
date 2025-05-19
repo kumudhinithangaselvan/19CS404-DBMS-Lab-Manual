@@ -1,4 +1,5 @@
 # Experiment 5: Subqueries and Views
+NAME : Kumudhini T
 
 ## AIM
 To study and implement subqueries and views.
