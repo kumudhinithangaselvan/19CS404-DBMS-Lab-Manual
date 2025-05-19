@@ -210,4 +210,4 @@ or OUTSTANDING_AMT>8000;
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment3_DML_Commands/README.md at main · Sree21112004/19CS404-DBMS-Lab-Manual 
+
