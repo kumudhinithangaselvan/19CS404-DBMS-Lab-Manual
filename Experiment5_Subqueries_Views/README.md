@@ -259,4 +259,4 @@ HAVING
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment5_Subqueries_Views/README.md at main · Sree21112004/19CS404-DBMS-Lab-Manual 
+ 
