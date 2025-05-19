@@ -44,4 +44,4 @@
 | 8      | Procedures, Functions         | No            |
 | 9      | Cursors, Exception Handling   | No            |
 | 10     | Triggers                      | No            |
-19CS404-DBMS-Lab-Manual/README.md at main · Sree21112004/19CS404-DBMS-Lab-Manual 
+
