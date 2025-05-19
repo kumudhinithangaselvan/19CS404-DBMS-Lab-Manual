@@ -1,4 +1,5 @@
 # Experiment 10: PL/SQL – Triggers
+# NAME : KUMUDHINI T
 
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
@@ -223,4 +224,4 @@ INSERT INTO employees (emp_id, emp_name, salary) VALUES (102, 'Jane Smith', 3500
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment10_Triggers/readme.md at main · Sree21112004/19CS404-DBMS-Lab-Manual
+
